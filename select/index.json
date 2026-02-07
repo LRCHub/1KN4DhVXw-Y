@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "yama - a.m.3:21 (Official Video)",
+  "base_artist": "yama",
+  "createdAt": "2026-02-07T12:52:49.669608Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yama Yama",
+      "artist": "Yamasuki",
+      "has_synced": true,
+      "path": "select/01_Yama_Yama_Yamasuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yama",
+      "artist": "Armin van Buuren feat. Vini Vici, Tribal Dance & Natalie Wamba Berry",
+      "has_synced": true,
+      "path": "select/02_Yama_Armin_van_Buuren_feat._Vini_Vici,_Tribal_Dance_&_Natalie_Wamba_Berry.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yama",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/03_Yama_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yama",
+      "artist": "Nancy Ajram",
+      "has_synced": true,
+      "path": "select/04_Yama_Nancy_Ajram.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ugokazarukoto Yama No Gotoshi",
+      "artist": "Mafumafu",
+      "has_synced": true,
+      "path": "select/05_Ugokazarukoto_Yama_No_Gotoshi_Mafumafu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yama Fil Habs Mazaleem",
+      "artist": "Cairokee",
+      "has_synced": true,
+      "path": "select/06_Yama_Fil_Habs_Mazaleem_Cairokee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yama Fi el Habs Mazaleem",
+      "artist": "Cairokee",
+      "has_synced": true,
+      "path": "select/07_Yama_Fi_el_Habs_Mazaleem_Cairokee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yama Nadeit",
+      "artist": "Umm Kulthum",
+      "has_synced": true,
+      "path": "select/08_Yama_Nadeit_Umm_Kulthum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Whatever Yama Says Goes",
+      "artist": "pinocchioP",
+      "has_synced": true,
+      "path": "select/09_Whatever_Yama_Says_Goes_pinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleeping town (feat. yama)",
+      "artist": "WhaleDontSleep",
+      "has_synced": false,
+      "path": "select/10_Sleeping_town_(feat._yama)_WhaleDontSleep.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "モンスター (feat. yama)",
+      "artist": "Genie High feat. yama",
+      "has_synced": true,
+      "path": "select/11_モンスター_(feat._yama)_Genie_High_feat._yama.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "モンスター (feat. yama)",
+      "artist": "Genie High/yama",
+      "has_synced": true,
+      "path": "select/12_モンスター_(feat._yama)_Genie_High_yama.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "yama - a.m.3:21 (Official Video)",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/13_yama_-_a.m.3_21_(Official_Video)_yama.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "yama - a.m.3:21 (Official Video)",
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/14_yama_-_a.m.3_21_(Official_Video)_yama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "a.m.3:21",
+      "artist": "yama",
+      "has_synced": false,
+      "path": "select/pl_01_a.m.3_21_yama.txt"
+    }
+  ]
+}
